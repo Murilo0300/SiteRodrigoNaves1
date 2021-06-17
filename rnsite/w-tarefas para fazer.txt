@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+-colocar as palavras chaves para o curso ser encontrado
+
+-site seguro
+
+-arrumar link do twitter
+=======
+-colocar as palavras chaves para o curso ser encontrado
+
+-arrumar o formulário de contato
+
+-pedir para o Rodrigo fazer um vídeo apresentação
+
+-colocar as capas dos livros lançados e os links para as lojas
+
+
+
+---------------------------------------------
+
+INDEX- finalizado
+
+PROGRAMA DAS AULAS - finalizado
+
+NORMAS finalizado
+
+CONTATO-
+
+BLOG - finalizado
+
+>>>>>>> 630244c170835a549ea22d8f3af936585857ebc1
